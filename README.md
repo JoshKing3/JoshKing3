@@ -1,7 +1,13 @@
-### Hi there 👋
+<h1>Hi, I'm Josh! <br/><a/a> <a href="https://www.linkedin.com/in/joshua-t-king/">IT Professional</a></h1>
+
+<h2>👨‍💻 CyberSecurity Projects:</h2>
+
+- <b>Implementing a SOC and Honeynet in Azure </b>
+  - [Azure SOC](https://github.com/JoshKing3)
+
 
 <!--
-**JoshKing3/JoshKing3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*.
 
 Here are some ideas to get you started:
 
