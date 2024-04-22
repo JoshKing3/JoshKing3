@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh! <br/><a/a> <a href="https://www.linkedin.com/in/joshua-t-king/">IT Professional</a></h1>
+<h1>Hi, I'm Josh! <br/><a/a> <a href="https://www.linkedin.com/in/joshua-t-king/">Cybersecurity Junior</a></h1>
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
