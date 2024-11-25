@@ -5,5 +5,8 @@
 - <b>Implementing a SOC and Honeynet in Azure </b>
   - [Azure SOC](https://github.com/JoshKing3/Azure-SOC/tree/main)
 
+- <b>Setting Up MFA and Securing RDP with Duo </b>
+  - [RDP_MFA](https://github.com/JoshKing3/RDP_MFA)
+
 
 
