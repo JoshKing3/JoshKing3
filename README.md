@@ -4,7 +4,7 @@
 
 ## ⚠️ Vulnerability Management Projects 🪲
 
-- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
+- **[Vulnerability Management Program Implementation](https://github.com/JoshKing3/vulnerability-management-program)**
 - **[Nessus-Vulnerability Management](https://github.com/JoshKing3/Nessus-VulnerabilityManagement)**
 
 ## 🚨 Threat Hunting and Security Operations 
