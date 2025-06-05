@@ -9,6 +9,7 @@
 
 ## 🚨 Threat Hunting and Security Operations 
 
+- **[Threat Hunting Report: Unauthorized TOR Usage](https://github.com/JoshKing3/Threat-hunting-tor/tree/main)**
 - **[Implementing a SOC and Honeynet in Azure](https://github.com/JoshKing3/Azure-SOC/tree/main)**
 - **[Securing RDP with Duo](https://github.com/JoshKing3/RDP_MFA)**
   
